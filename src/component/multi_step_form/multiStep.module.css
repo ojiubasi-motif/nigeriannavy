@@ -1,0 +1,11 @@
+.confirmData{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1em;
+    color: gray;
+}
+
+.nextBtn{
+    /* background-color: rgb(126, 241, 11); */
+    margin: 15px;
+}
